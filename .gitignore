@@ -1,0 +1,4 @@
+*.swp
+
+mysql/
+logs/
